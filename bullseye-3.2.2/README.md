@@ -1,6 +1,6 @@
 # GDAL
 
-Command-line utilities for using [GDAL](https://gdal.org/). 
+Docker image for [GDAL](https://gdal.org/). 
 
 Uses GDAL 3.2.2 on Debian bullseye
 
