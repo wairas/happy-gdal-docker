@@ -1,4 +1,4 @@
-# SPy
+# GDAL
 
 Command-line utilities for using [GDAL](https://gdal.org/). 
 
